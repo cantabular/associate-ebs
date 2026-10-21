@@ -1,6 +1,6 @@
 module github.com/sensiblecodeio/associate-ebs
 
-go 1.25.0
+go 1.27
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.47.0
